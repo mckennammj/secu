@@ -29,6 +29,7 @@ The project is in its very early stages so most of the files are from the compon
 	* Favoriting/Saving specific bills and push notifications as they go through the pipeline
 	* Share to social media: bills, scorecards, etc
 	* Contact your legislators using phone/email/snail mail/social media
+	* Tracking of which bills altered previous bills
 	* Official Launch of Android
 
 1. (Facepalm)
