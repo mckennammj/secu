@@ -1,5 +1,5 @@
 # secu
-Secu is a hybrid mobile/web app that for the MVP allows for non-profits and PoliSci folks to make score cards for legislators based on their voting history using the roll call votes published on the house and senate websites. An example score card is here http://www.cfequality.org/issues/congressionalscorecard/house-115/ 
+Secu (pronounced Seck You, from the word Secular) is a hybrid mobile/web app that for the MVP allows for non-profits and PoliSci folks to make score cards for legislators based on their voting history using the roll call votes published on the house and senate websites. An example score card is here http://www.cfequality.org/issues/congressionalscorecard/house-115/ 
 
 Propublica has an open api to call U.S. Congress in JSON format but the data actually published on the .gov form is XML. https://projects.propublica.org/api-docs/congress-api/ and https://www.senate.gov/legislative/votes.htm and https://xml.house.gov/
 
