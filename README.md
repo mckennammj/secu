@@ -26,7 +26,11 @@ The project is in its very early stages so most of the files are from the compon
 	* Favoriting/Saving specific bills and push notifications as they go through the pipeline
 	* Share to social media: bills, scorecards, etc
 	* Contact your legislators using phone/email/snail mail/social media
-	* Official Launch
+	* Official Launch of Android
+
+1. 
+	1. Do all the crazy stuff Apple demands of iOS apps https://www.youtube.com/watch?v=NEiaqg75j94 
+	1. Launch iOS app
 
 1. Research all 50 states legislatures and their current data formats
 
