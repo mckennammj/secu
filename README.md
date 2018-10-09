@@ -39,6 +39,8 @@ The project is in its very early stages so most of the files are from the compon
 
 1. Add all 50 states to the app in order of least to greatest difficulty and time needed
 
+1. Add feature to track laws overruled by Judicial branch
+
 1. Research all counties and major cities for their current data formats
 
 1. Add all counties and major cities in descending order of population, difficulty and time needed
