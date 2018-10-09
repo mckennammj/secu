@@ -12,9 +12,12 @@ The project is in its very early stages so most of the files are from the compon
 1. (Current Step)
 	* JS to pull in JSON format from ProPublica
 	* HTML5 to build table and search using JSON data
+	* Remember to include searching Executive based on veto/sign of bills
+
 1. Prototype interface with innovators feedback
 	* Make the table interactive 
 	* Add score carding
+
 1. Getting ready for early adopters
 	* Remove excess content from template 
 	* Publish for use by non-profits and PoliSci folks
@@ -28,7 +31,7 @@ The project is in its very early stages so most of the files are from the compon
 	* Contact your legislators using phone/email/snail mail/social media
 	* Official Launch of Android
 
-1. 
+1. (Facepalm)
 	1. Do all the crazy stuff Apple demands of iOS apps https://www.youtube.com/watch?v=NEiaqg75j94 
 	1. Launch iOS app
 
